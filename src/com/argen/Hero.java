@@ -2,14 +2,25 @@ package com.argen;
 
 public class Hero {
     private int Herohealth;
-    private int HerosuperDamage;
     private int Herodamage;
+    private int HerosuperDamage;
+
+    public Hero() {
+        super();
+
+    }
+    public Hero(int damage, int health){
+        this.Herodamage = damage;
+        this.Herohealth = health;
+        this.HerosuperDamage = 0;
+    }
+
 
     public int getHerohealth() {
         return Herohealth;
     }
 
-    public void setHerohealth(int herohealth) {
+    public void getHerohealth(int herohealth) {
         Herohealth = herohealth;
     }
 
@@ -17,7 +28,7 @@ public class Hero {
         return HerosuperDamage;
     }
 
-    public void setHerosuperDamage(int herosuperDamage) {
+    public void getHerosuperDamage(int herosuperDamage) {
         HerosuperDamage = herosuperDamage;
     }
 
@@ -25,8 +36,9 @@ public class Hero {
         return Herodamage;
     }
 
-    public void setHerodamage(int herodamage) {
+    public void getHerodamage(int herodamage) {
         Herodamage = herodamage;
     }
+
 }
 

@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="735ef42f-5143-408b-851a-903305caeb5e" name="Default Changelist" comment="" />
+    <list default="true" id="735ef42f-5143-408b-851a-903305caeb5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../lesson.5.5.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson.5.5.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson.5.5.1/src/com/argen/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson.5.5.1/src/com/argen/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson.5.5.1/src/com/argen/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson.5.5.1/src/com/argen/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../lesson.5.5.1" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1pL5lxr65ELfbuVXav8Py3EA6Uu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
@@ -89,13 +105,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,7 +134,8 @@
       <updated>1614949691706</updated>
       <workItem from="1614949693487" duration="1215000" />
       <workItem from="1614952184295" duration="2971000" />
-      <workItem from="1614956188062" duration="7760000" />
+      <workItem from="1614956188062" duration="12385000" />
+      <workItem from="1615375374550" duration="7194000" />
     </task>
     <servers />
   </component>
